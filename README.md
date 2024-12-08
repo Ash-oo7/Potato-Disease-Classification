@@ -62,7 +62,7 @@ npm start
 
 
 ### 4. Upload a Leaf Image
-- Open your browser and navigate to `http://localhost:3000`
+- Open your browser and navigate to `http://localhost:5173`
 - Use the interface to upload an image of a potato leaf
 - View the disease classification result in real-time
 
